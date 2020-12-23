@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.full-form{
+    height: 950px;
+    width: 400px;
+    background-color: rgb(219, 223, 222);
+    box-shadow: 0px 0px 9px red;
+    margin: 30px auto;
+}
+.form{
+    padding-left: 50px;
+}
+H1{
+    text-align: center;
+    font-size: 50PX;
+}
+.fw{
+    width: 1024px;
+    background-color: rgb(54, 160, 209);
+    margin: 30px auto;
+    text-align: center;
+    color: rgb(219, 223, 222);
+    box-shadow: 0px 0px 9px rgb(255, 0, 0);
+}
+.image{
+    width: 1024px;
+    height: 1000px;
+}
+.pic{
+    width: 950px;
+    margin-left: -30px;
+    padding-left: -30px;
+    
+}
+.footer{
+    height: 40px;
+    width: 60px;
+    background-color: rgb(236, 236, 236);
+    color: rgb(219, 223, 222);
+    margin: 50px auto;
+    text-align: center;
+    padding: 10px;
+    
+}
+.contenar{
+    background-color: rgb(172, 221, 38);
+    color: black;
+}
+.footer-botom{
+    background-color: rgb(38, 146, 196);
+}
+.op{
+    padding: 30px;
+}
+.opx{
+    padding: 60px;
+}
+.sweety{
+    width: 1024px;
+    background-color: rgb(8, 243, 20);
+    margin: 30px auto;
+    box-shadow: 0px 0px 9px black;
+     
+}
+.sorto{
+    width: 500px;
+    
+}
+.margin{
+    text-align: center;
+}
+.LOG-IN{
+    padding-top: 20px;
+    margin-bottom: -30px;
+}
+.cithi{
+    
+    height: 50px;
+    width: 125px;
+    background-color: rgb(137, 253, 149);
+    margin-left: 800px;
+    
+    padding: 20px;
+        
+}
+.letar{
+    width: 1024px;
+    background-color: rgb(60, 207, 126);
+    margin: 50px auto;
+    padding: 50px;
+    box-shadow: 0px 0px 9px red;
+}
+.ity{
+    margin-left: 750px;
+}
